@@ -7,6 +7,7 @@ import Hero from '../components/hero';
 import SalonInfo from '../components/SalonInfo';
 import SalonText from "../components/salonText";
 import "bootstrap/dist/css/bootstrap.min.css";
+import 'react-slideshow-image/dist/styles.css'
 
 export default function Home() {
   return <div className="App">

@@ -6,7 +6,7 @@ export default function SalonText() {
     return (
         <div className='container-fluid'>
             <div className='row'>
-                <img className='col-md-6 cactusLogo  float-left pt-5' src={cactusLogo} ></img>
+                <img className='col-md-6 cactusLogo  float-left pt-5 img-fluid' src={cactusLogo} ></img>
 
 
                 <Container className='text-main col-md-6  pt-3'>
