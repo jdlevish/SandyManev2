@@ -4,12 +4,16 @@ import React, { Component } from "react"
 import '../App.css';
 import NavBar from '../components/Nav.js';
 import Hero from '../components/hero';
+import SalonInfo from '../components/SalonInfo';
+import SalonText from "../components/salonText";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Home() {
   return <div className="App">
     <NavBar />
     <Hero></Hero>
+    <SalonText></SalonText>
+    <SalonInfo></SalonInfo>
 
   </div>
 }
