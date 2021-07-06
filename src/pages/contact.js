@@ -79,7 +79,7 @@ export default function Contact() {
                 <div class="form-group col-md">
                     <label for="Service " className="float-left">Service Interested In:</label>
                     <input type="text" name="requestedService" id="Service" class="form-control form-control-sm" placeholder="Highlights" onChange={handleChange} />
-                    <label for="currentHair" className="float-left pt-2">Upload a picture of your hair in it's current state</label><input type="file" id="myFile" class="form-control-file" name="currentHair" />
+                    <label for="currentHair" className="pt-2">Upload a picture of your hair in it's current state</label><input type="file" id="myFile" class="form-control-file" name="currentHair" />
 
                     <br />
                     <button type="submit" class="btn btn-outline-secondary"> Submit</button>
