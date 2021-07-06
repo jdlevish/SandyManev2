@@ -1,8 +1,11 @@
 import React from 'react'
-import NavBar from '../components/Nav'
+import NavBar from '../components/Nav';
+import '../App.css';
 
 
-export default function thanks() {
+
+
+export default function Products() {
     return (
         <div className="App">
             <NavBar />
