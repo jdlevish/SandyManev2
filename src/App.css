@@ -1,11 +1,11 @@
 
 @font-face {
   font-family: 'Source Sans Pro', sans-serif;
-  src: url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+  src: url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400&display=swap');
 }
 
 
-#html{
+html{
   background-color: #FBFCF5;
   font-family: 'Source Sans Pro', sans-serif;
 
@@ -50,7 +50,7 @@
 .navbar-light .navbar-nav .nav-link{
   font-family: 'Source Sans Pro', sans-serif;
   color:#B56C54!important;
-  font-size:3.5vh;
+  font-size:2.5vh;
   background-color: transparent;
 }
 .hero-image{
@@ -64,10 +64,12 @@
   
 }.text-main{
   font-family: 'Source Sans Pro', sans-serif;
-  font-size:3vh;
+  font-weight: 200;
+  font-size:2.5vh;
   text-align:justify;
+  background-color: #f8c7ac;
   /* padding-right:none; */
-  color:#4C5157;
+  color:#FBFCF5;
 
   
 
@@ -78,8 +80,12 @@
   position: relative;
 
 }
+.bottomStyle{
+  margin-bottom:9vh;
+}
 
 .salon{
+  border-top:2px solid #4C5157;
   color:#4C5157;
   font-size:3vh;
   /* background-color: #FBFCF5; */
@@ -100,7 +106,7 @@
 }
 
 .brand-logo{
-  height: 12vh;
+  height: 9vh;
 }
 .card {
   
@@ -116,10 +122,37 @@
 }
 a, a:link, a:visited, a:active, a:hover{
   text-decoration: none;
-  color:#3d3c3c
+  color:#C68D7A;
+}
+a:hover{
+  text-decoration: none;
+  color:#C68D7A!important;
 }
 .instaLogo{
   height:6vh;
   
 
 }
+.form-control{
+	border:none!important;
+}
+.btn-outline-secondary{
+	border-color:#AD5C40!important;
+	color:#AD5C40!important;
+}
+.btn-outline-secondary:hover {
+    color: #fff!important;
+    background-color: #AD5C40!important;
+    border-color: #AD5C40!important;
+}
+.link-custom:hover {
+	color: #C68D7A;
+}
+.nav-link:hover{
+  color: #e2c9c0!important;
+}
+.form-class{
+  color:#B56C54;
+}
+
+

@@ -15,15 +15,18 @@ export default function NavBar() {
 
                 <Nav className="m-auto" >
 
-                    <Nav.Link href="/Stylists" >The Stylists</Nav.Link>
+                    <Nav.Link href="/"> Salon</Nav.Link>
+                    <Nav.Link href="/Stylists"  >Stylists</Nav.Link>
 
                     <Navbar.Brand href="/" className="d-none d-lg-block"><img className="  brand-logo pl-3" src={tsm}></img></Navbar.Brand>
 
+                    <Nav.Link href="/contact">Contact</Nav.Link>
+                    <Nav.Link href="/products"  >Products</Nav.Link>
 
 
 
 
-                    <Nav.Link className=" order-3" href="/Salon">The Salon</Nav.Link>
+
                 </Nav>
             </Navbar.Collapse>
 

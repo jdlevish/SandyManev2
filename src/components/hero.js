@@ -6,7 +6,7 @@ import salon1 from '../images/salon1.jpg'
 import salon2 from '../images/salon2.jpg'
 
 const properties = {
-    duration: 6000,
+    duration: 4000,
     transitionDuration: 700,
     infinite: true,
     prevArrow: <div> </div>,
@@ -16,7 +16,7 @@ const properties = {
 
 export default function Hero() {
     return (
-        <div className="">
+        <div className="bottomStyle">
             <Fade {...properties}>
 
                 <img className='img-fluid each-fade ' src={salon} ></img>
