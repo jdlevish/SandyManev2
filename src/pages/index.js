@@ -5,7 +5,7 @@ import '../App.css';
 import NavBar from '../components/Nav.js';
 import Hero from '../components/hero';
 import SalonInfo from '../components/SalonInfo';
-import SalonText from "../components/salonText";
+import SalonText from "../components/SalonText";
 import "bootstrap/dist/css/bootstrap.min.css";
 import 'react-slideshow-image/dist/styles.css'
 
