@@ -19,11 +19,11 @@ export default function Hero() {
         <div className="bottomStyle">
             <Fade {...properties}>
 
-                <img className='img-fluid each-fade ' src={salon} ></img>
+                <img className='img-fluid each-fade ' height='auto' width='100%' src={salon} ></img>
 
 
-                <img className=' img-fluid each-fade ' src={salon1} ></img>
-                <img className=' img-fluid each-fade ' src={salon2} ></img>
+                <img className=' img-fluid each-fade ' height='auto' width='100%' src={salon1} ></img>
+                <img className=' img-fluid each-fade ' height='auto' width='100%' src={salon2} ></img>
             </Fade>
         </div>
     )

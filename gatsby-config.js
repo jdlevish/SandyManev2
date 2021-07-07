@@ -5,6 +5,8 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    siteUrl: `https://www.thesandymane.com`,
+  },
+  plugins: [`gatsby-plugin-sitemap`],
 }
