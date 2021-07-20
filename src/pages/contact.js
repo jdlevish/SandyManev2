@@ -3,6 +3,7 @@ import { navigate } from 'gatsby-link'
 import NavBar from '../components/Nav'
 import '../App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Helmet } from "react-helmet"
 // import Layout from '../layout'
 
 function encode(data) {
@@ -18,7 +19,7 @@ export default function Contact() {
         setState({ ...state, [e.target.name]: e.target.value })
     }
 
-    console.log(state)
+
     const handleSubmit = (e) => {
         e.preventDefault()
         const form = e.target
@@ -37,6 +38,10 @@ export default function Contact() {
     return (
 
         <div className="App">
+            <Helmet>
+                <meta charSet="utf-8" />
+                <title>The Sandy Mane: a new high-end salon in Palm Desert California - contact form </title>
+            </Helmet>
             <NavBar />
 
             <form
