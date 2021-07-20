@@ -5,10 +5,8 @@
  */
 
 module.exports = {
-
-  plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-sitemap`, {
-    siteMetadata: {
-      siteUrl: `https://www.thesandymane.com`,
-    }
-  }],
+  siteMetadata: {
+    siteUrl: `https://www.thesandymane.com`,
+  },
+  plugins: [`gatsby-plugin-react-helmet`, `gatsby-plugin-sitemap`,],
 }
