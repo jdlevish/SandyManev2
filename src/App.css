@@ -65,11 +65,11 @@ html{
 }.text-main{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
-  font-size:2.5vh;
+  font-size:1.4rem;
   text-align:justify;
   background-color: #f8c7ac;
   /* padding-right:none; */
-  color:#FBFCF5;
+  color:rgb(122, 107, 73);
 
   
 
@@ -93,6 +93,9 @@ html{
 .cactusLogo{
   height:65vh;
   width:35vh;
+}
+.salon-text{
+  padding-top:6rem;
 }
 
 

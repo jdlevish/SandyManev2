@@ -1,0 +1,47 @@
+{
+    "stylists": [
+        {
+            "name": "Megan",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/megan.jpg",
+            "about": "Hi! I’m Megan, I’m the owner of The Sandy Mane. I wanted to open this space to give everyone a bright happy environment to come to when getting your hair done. I want guests to leave feeling good. Not only because of how amazing they look after there service with one of our hair designers. but also because of the overall experience with us. As a stylist I want you to always leave thinking you’ve never looked better. I love sunkissed effortless looks. I’m certified in hand tied extensions as well as beaded weft. I can never know enough. I strive to always be ahead of the trends and bring new ideas To my guest.",
+            "instagram": "@hair_by_meganl",
+            "instagramLink": "http://www.instagram.com/hair_by_meganl"
+        },
+        {
+            "name": "Torrey",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/torrey.jpg",
+            "instagram": "@hairbytorreydavis",
+            "instagramLink": "http://www.instagram.com/hairbytorreydavis"
+        },
+        {
+            "name": "Claire",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/claire.jpg",
+            "instagram": "@claire.does.hairs",
+            "instagramLink": "http://www.instagram.com/claire.does.hairs"
+        },
+        {
+            "name": "Tara",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/tara.jpg",
+            "instagram": "@tarahairandmakeup",
+            "instagramLink": "http://www.instagram.com/tarahairandmakeup"
+        },
+        {
+            "name": "Brooklyn",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/brooklyn.jpg",
+            "instagram": "@hair_with_brooklyn",
+            "instagramLink": "http://www.instagram.com/hair_with_brooklyn"
+        },
+        {
+            "name": "Gabe",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/gabe.jpg",
+            "instagram": "@styledbysifuentes",
+            "instagramLink": "http://www.instagram.com/styledbysifuentes"
+        },
+        {
+            "name": "Kaia",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/kaia.jpg",
+            "instagram": "@beautyby_kaiadee",
+            "instagramLink": "http://www.instagram.com/beautyby_kaiadee"
+        }
+    ]
+}

@@ -11,7 +11,7 @@ export default function SalonText() {
 
                 <Container className='text-main col-md-6  pt-5'>
 
-                    <article ><p>Located in the heart of palm desert, off of beautiful el Paseo. The sandy mane is a new high end salon that offers a bright welcoming vibe with talented, on trend, down to earth stylists ready to help you relax, and leave looking and feeling your best.</p>
+                    <article className="salon-text" ><p>Located in the heart of palm desert, off of beautiful el Paseo. The sandy mane is a new high end salon that offers a bright welcoming vibe with talented, on trend, down to earth stylists ready to help you relax, and leave looking and feeling your best.</p>
                         <br></br>
 
                         <p>The sandy mane feels like sunshine, Good vibes, bright colors and Smiling faces. Here we believe in giving our guests the highest quality experience and with that high quality eco friendly hair products are all we use/carry in the salon as well. We want you to not only love your hair when you leave us but continue loving your locks with your custom prescribed home care regiment. We’re happy to educate so you get the most out of your hair and products.
