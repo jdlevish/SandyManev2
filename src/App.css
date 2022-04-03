@@ -50,7 +50,7 @@ html{
 .navbar-light .navbar-nav .nav-link{
   font-family: 'Source Sans Pro', sans-serif;
   color:#B56C54!important;
-  font-size:2.5vh;
+  font-size:1.5rem;
   background-color: transparent;
 }
 .hero-image{
@@ -62,7 +62,8 @@ html{
   color:white;
   font-size:2vh;
   
-}.text-main{
+}
+.text-main{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
   font-size:1.4rem;
@@ -97,19 +98,18 @@ html{
 .salon-text{
   padding-top:6rem;
 }
-
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-text{
+  font-size: 4rem;
+}
+.navbar-brand{
+  margin-right:none;
 }
 
+
+
+
 .brand-logo{
-  height: 9vh;
+  height: 12vh
 }
 .card {
   
