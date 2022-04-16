@@ -1,0 +1,60 @@
+{
+    "stylists": [
+        {
+            "number": "one",
+            "name": "Megan",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/megan.jpg",
+            "about": "Hi! I’m Megan, I’m the owner of The Sandy Mane. I wanted to open this space to give everyone a bright happy environment to come to when getting your hair done. I want guests to leave feeling good. Not only because of how amazing they look after there service with one of our hair designers. but also because of the overall experience with us. As a stylist I want you to always leave thinking you’ve never looked better. I love sunkissed effortless looks. I’m certified in hand tied extensions as well as beaded weft. I can never know enough. I strive to always be ahead of the trends and bring new ideas To my guest.",
+            "instagram": "@hair_by_meganl",
+            "instagramLink": "http://www.instagram.com/hair_by_meganl"
+        },
+        {
+            "number": "two",
+            "name": "Torrey",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/torrey.jpg",
+            "about": "My names Torrey! I was born and raised in the desert, Iv been doing hair for 6 years now, but my love of hair started way back when I was a kid I was always trying to cut my own hair or anyone that would let me! Iv always loved hair and truly have a passion for people and making them look and feel their absolutely best! I get to wake up and love what I do and have so much fun with my clients and the wonderful and talented people that work around me!",
+            "instagram": "@hairbytorreydavis",
+            "instagramLink": "http://www.instagram.com/hairbytorreydavis"
+        },
+        {
+            "number": "three",
+            "name": "Claire",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/claire.jpg",
+            "about": "born & raised in the desert, love traveling, music, nature, time with family & friends. Just became a mama to the most perfect little girl and my heart has never been more full! I love doing hair because I get to make others feel confident and accentuate their own beauty and I believe spreading that love and kindness is the most important thing in this world!",
+            "instagram": "@claire.does.hairs",
+            "instagramLink": "http://www.instagram.com/claire.does.hairs"
+        },
+        {
+            "number": "three",
+            "name": "Tara",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/tara.jpg",
+            "about": "Hello, my name is Tara! I’m heading into my 26th year of doing hair and I love it as much today as I did when I started. Being a stylist and makeup artist gives me a creative outlet that is so rewarding and satisfying, I could not imagine doing anything else! As long as you love what you do, you never have to work a day in your life.",
+            "instagram": "@tarahairandmakeup",
+            "instagramLink": "http://www.instagram.com/tarahairandmakeup"
+        },
+        {
+            "number": "four",
+            "name": "Brooklyn",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/brooklyn.jpg",
+            "about": "Hi there 👋🏼 I’m Brooklyn. Here’s a little bit about me: I grew up in Arizona and after I graduated high school my family decided to move to Utah. Shortly after we moved I went on a church service mission for a year & a half in Northern Seattle Washington. After that I moved back to Utah and started hair school. I met the love of my life and we got married in August of 2020. Last year we decided to have a baby and we were blessed with our sweet little girl in October of last year. I’ve been doing hair for 3 years now and absolutely love it! I’m now taking new clients. Dm me to make an appointment🤍",
+            "instagram": "@hair_with_brooklyn",
+            "instagramLink": "http://www.instagram.com/hair_with_brooklyn"
+        },
+        {
+            "number": "five",
+            "name": "Gabe",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/gabe.jpg",
+            "about": "Hi! I’m Gabe! I’m a Palm Springs native of 29 years. I’ve been working behind the chair for the past 3 years. I have a loud personality so you’ll definitely hear me chatting everyone up around the salon. You’ll see that My hair page ranges from Blondes, Brunettes and everything in between. So if you’re looking for something new or looking to maintain an already current color ; message me and let’s make some dream hair come true! I’ll see you soon! -Be Kind To Your Hair ✨💚",
+            "instagram": "@styledbysifuentes",
+            "instagramLink": "http://www.instagram.com/styledbysifuentes"
+        },
+        {
+            "number": "six",
+            "name": "Kaia",
+            "image": "https://res.cloudinary.com/cvdevjl/image/upload/w_1000,c_fill,ar_1:1,g_auto/v1648789883/stylists/kaia.jpg",
+            "about": "my name is kaia, i was born and raised in the coachella valley! i started off doing makeup then took that a step further & went to beauty school & started doing hair as well. i love making people feel beautiful & confident in their own skin! being a stylist is so much fun, i love what i do & don’t see myself doing anything else… plus i get to work with an awesome group of talented stylists!",
+            "instagram": "@beautyby_kaiadee",
+            "instagramLink": "http://www.instagram.com/beautyby_kaiadee"
+        }
+    ]
+}

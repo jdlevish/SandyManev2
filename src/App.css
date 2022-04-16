@@ -1,23 +1,24 @@
-
 @font-face {
   font-family: 'Source Sans Pro', sans-serif;
   src: url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400&display=swap');
 }
 
 
-html{
+html {
   background-color: #FBFCF5;
   font-family: 'Source Sans Pro', sans-serif;
 
 }
-#body{
+
+#body {
   background-color: #FBFCF5;
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 .App {
   text-align: center;
   background-color: #FBFCF5;
-  
+
 }
 
 .App-logo {
@@ -47,112 +48,138 @@ html{
 .App-link {
   color: #61dafb;
 }
-.navbar-light .navbar-nav .nav-link{
+
+.nav-link:hover {
+  color: #ca9c8b !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
   font-family: 'Source Sans Pro', sans-serif;
-  color:#B56C54!important;
-  font-size:2.5vh;
+  color: #B56C54 !important;
+  font-size: 1.5rem;
   background-color: transparent;
 }
-.hero-image{
-  height: 90vh;
-   width:100vw; 
+
+.hero-image {
+  height: 70vh;
+  width: 100vw;
 }
-.covid-notice{
+
+.covid-notice {
   background-color: #282c34;
-  color:white;
-  font-size:2vh;
-  
-}.text-main{
+  color: white;
+  font-size: 2vh;
+
+}
+
+.text-main {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 200;
-  font-size:2.5vh;
-  text-align:justify;
-  background-color: #f8c7ac;
+  font-size: 1.2rem;
+  text-align: justify;
+  background-color: #faeee8;
   /* padding-right:none; */
-  color:#FBFCF5;
+  color: rgb(122, 107, 73);
 
-  
+
 
 }
-.background-hero{
-  height: 85!important;
-  width:100%; 
+
+.background-hero {
+  height: 85 !important;
+  width: 100%;
   position: relative;
 
 }
-.bottomStyle{
-  margin-bottom:9vh;
+
+.bottomStyle {
+  margin-bottom: 9vh;
 }
 
-.salon{
-  border-top:2px solid #4C5157;
-  color:#4C5157;
-  font-size:3vh;
+.salon {
+  border-top: 2px solid #4C5157;
+  color: #4C5157;
+  font-size: 2rem;
   /* background-color: #FBFCF5; */
 }
-.cactusLogo{
-  height:65vh;
-  width:35vh;
+
+.cactusLogo {
+  height: 40vh;
+  width: 20vh;
+}
+
+.salon-text {
+  padding-top: 6rem;
+}
+
+.nav-text {
+  font-size: 4rem;
+}
+
+.navbar-brand {
+  margin-right: none;
 }
 
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+.brand-logo {
+  height: 12vh
 }
 
-.brand-logo{
-  height: 9vh;
-}
 .card {
-  
+
   font-family: 'Source Sans Pro', sans-serif;
-  background-color: #FBFCF5!important;
-  border:none!important;
+  background-color: #FBFCF5 !important;
+  border: none !important;
 }
 
-.card-footer{
+.card-footer {
   font-family: 'Source Sans Pro', sans-serif;
-  border:none!important;
-  background-color: #FBFCF5!important;
+  border: none !important;
+  background-color: #FBFCF5 !important;
 }
-a, a:link, a:visited, a:active, a:hover{
+
+a,
+a:link,
+a:visited,
+a:active,
+a:hover {
   text-decoration: none;
-  color:#C68D7A;
+  color: #C68D7A;
 }
-a:hover{
+
+a:hover {
+  font-size: 2.1rem;
   text-decoration: none;
-  color:#C68D7A!important;
+  color: #C68D7A !important;
 }
-.instaLogo{
-  height:6vh;
-  
+
+.instaLogo {
+  height: 6vh;
+
 
 }
-.form-control{
-	border:none!important;
+
+.form-control {
+  border: none !important;
 }
-.btn-outline-secondary{
-	border-color:#AD5C40!important;
-	color:#AD5C40!important;
+
+.btn-outline-secondary {
+  border-color: #AD5C40 !important;
+  color: #AD5C40 !important;
 }
+
 .btn-outline-secondary:hover {
-    color: #fff!important;
-    background-color: #AD5C40!important;
-    border-color: #AD5C40!important;
+  color: #fff !important;
+  background-color: #AD5C40 !important;
+  border-color: #AD5C40 !important;
 }
+
 .link-custom:hover {
-	color: #C68D7A;
-}
-.nav-link:hover{
-  color: #e2c9c0!important;
-}
-.form-class{
-  color:#B56C54;
+  color: #C68D7A;
 }
 
-
+.form-class {
+  color: #B56C54;
+}
