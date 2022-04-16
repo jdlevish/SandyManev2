@@ -99,7 +99,7 @@ html {
 .salon {
   border-top: 2px solid #4C5157;
   color: #4C5157;
-  font-size: 2rem;
+  font-size: 1.8rem;
   /* background-color: #FBFCF5; */
 }
 
@@ -138,7 +138,10 @@ html {
   font-family: 'Source Sans Pro', sans-serif;
   border: none !important;
   background-color: #FBFCF5 !important;
+  font-size: 1.8rem;
 }
+
+
 
 a,
 a:link,
@@ -150,7 +153,7 @@ a:hover {
 }
 
 a:hover {
-  font-size: 2.1rem;
+  font-size: 1.9rem;
   text-decoration: none;
   color: #C68D7A !important;
 }
