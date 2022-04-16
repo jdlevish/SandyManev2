@@ -16,12 +16,12 @@ export default function NavBar() {
                 <Nav className="m-auto" >
 
                     <Nav.Link className="mr-4" href="/"> Salon</Nav.Link>
-                    <Nav.Link className="mr-4" href="/Stylists"  >Stylists</Nav.Link>
+                    <Nav.Link className="mr-4" href="/Stylists">Stylists</Nav.Link>
 
                     <Navbar.Brand href="/" className="d-none d-lg-block m-0 "><img className="brand-logo pl-3" src={tsm}></img></Navbar.Brand>
 
                     <Nav.Link className="ml-4" href="/contact">Contact</Nav.Link>
-                    <Nav.Link className="ml-4" href="/products"  >Products</Nav.Link>
+                    <Nav.Link className="ml-4" href="/products">Products</Nav.Link>
 
 
 
