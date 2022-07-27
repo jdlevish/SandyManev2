@@ -165,7 +165,7 @@ a:hover {
 }
 
 .form-control {
-  border: none !important;
+  border: 1px solid #c6b2ab !important;
 }
 
 .btn-outline-secondary {
@@ -185,4 +185,33 @@ a:hover {
 
 .form-class {
   color: #B56C54;
+}
+
+.StylistCheckBox {
+  font-size: 1.5rem;
+  padding-right: .5rem;
+}
+
+.fieldset {
+  /* border: 2px solid #C68D7A; */
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-input {
+  content: 'Select a picture';
+  display: inline-block;
+  background: linear-gradient(top, #f9f9f9, #e3e3e3);
+  border: 1px solid #999;
+  border-radius: 3px;
+  padding: 5px 8px;
+  outline: none;
+  white-space: nowrap;
+  -webkit-user-select: none;
+  cursor: pointer;
+  text-shadow: 1px 1px #fff;
+  font-weight: 700;
+  font-size: 10pt;
 }

@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import NavBar from '../components/Nav'
+import StylistsCheckBox from '../components/StylistCheckBox';
 import '../App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Helmet } from "react-helmet"
@@ -34,7 +35,7 @@ export default function Contact() {
             .then(() => navigate(form.getAttribute('action')))
             .catch((error) => alert(error))
     }
-
+    console.log(state);
     return (
 
         <div className="App">
@@ -79,13 +80,19 @@ export default function Contact() {
                     <label for="hairColor" className="float-left">Hair Color:</label>
                     <input type="text" id="hairColor" name="hairColor" class="form-control form-control-sm" placeholder="sandy" onChange={handleChange} />
                     <label for="hairCondition" className="float-left">Hair Condition:</label>
-                    <input type="text" class="form-control form-control-sm" name="hairCondition" id="hairCondition" placeholder="Healthy" onChange={handleChange} />
+                    <input type="text" className="form-control form-control-sm" name="hairCondition" id="hairCondition" placeholder="Healthy" onChange={handleChange} />
                 </div>
                 <div class="form-group col-md">
                     <label for="Service " className="float-left">Service Interested In:</label>
                     <input type="text" name="requestedService" id="Service" class="form-control form-control-sm" placeholder="Highlights" onChange={handleChange} />
-                    <label for="currentHair" className="pt-2">Upload a picture of your hair in it's current state</label><input type="file" id="myFile" class="form-control-file" name="currentHair" />
-
+                    <label for="currentHair" className="pt-2 mt-3 mb-3 mr-2 btn btn-outline-secondary">Click here to upload a picture of your hair in it's current state
+                    </label>
+                    <span id="file-name">{state.currentHair}</span>
+                    <input type="file" id="currentHair" className=" ml-2 form-control-file " name="currentHair" onChange={handleChange} />
+                    <fieldset class="fieldset">
+                        <legend>If you have a stylist you would like to work with choose them from the list below</legend>
+                        <StylistsCheckBox handleChange={handleChange} />
+                    </fieldset>
                     <br />
                     <button type="submit" class="btn btn-outline-secondary"> Submit</button>
                 </div>
