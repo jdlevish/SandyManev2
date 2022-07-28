@@ -215,3 +215,12 @@ input[type="file"] {
   font-weight: 700;
   font-size: 10pt;
 }
+
+.productsText {
+  color: #B56C54;
+}
+
+.ProductsTitle {
+  color: #975b47;
+  font-size: 2rem;
+}

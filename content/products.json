@@ -1,0 +1,226 @@
+{
+    "products": [
+        {
+            "name": "Angel.Wash",
+            "description": "If your over-stressed hair is in need of a little salvation, our delicate ANGEL.WASH volumising shampoo will nourish and transform fine, fragile hair that has been colour-treated or damaged. Infused with soothing essential oils, vitamins, proteins and antioxidants, ANGEL.WASH gently cleanses the scalp and hair while maximising colour longevity, and protecting against harmful free radicals.",
+            "price": "250ml $35.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/AW_website.jpg"
+        },
+        {
+            "name": "Angel.rinse",
+            "description": "Treat fine, fragile and broken hair with ANGEL.RINSE, our weightless, volumising conditioning RINSE created to soothe and protect fine, damaged and colour-treated hair. Delicately scented and deeply conditioning, Mango and Cocoa Butters help nourish and moisturise the hair without weighing it down.",
+            "price": "250ml $36.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/angel.rinse_.jpg"
+        },
+        {
+            "name": "Repair-me.rinse",
+            "description": "Repair, renew and restore dry, damaged, frizzy over-processed hair with REPAIR.ME.RINSE, our deeply nourishing and strengthening conditioner that helps reconstruct and repair the hair. Packed with a powerhouse of soft-state proteins and enzymes, REPAIR-ME.RINSE delivers gentle lubrication to the hair, while helping to restore and protect against future damage.",
+            "price": "250ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/RMR_website.jpg"
+        },
+        {
+            "name": "Hydrate-me.rinse",
+            "description": "A luxurious hydrating and smoothing conditioner, designed to restore and replenish hair in need of repair. Ideal for naturally dry hair or for hair that’s been exposed to harsh, dry climates. HYDRATE-ME.RINSE provides an essential moisture boost to nourish dry, parched locks, and transforms the look and feel of split ends. Full of antioxidant goodness, HYDRATE-ME.RINSE leaves the hair with a nourished, healthy-looking glow.",
+            "price": "250ml $34.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/HMR_website.jpg"
+        },
+        {
+            "name": "Plumping.rinse",
+            "description": "Treat fine, thin or ageing hair to a lavish level of conditioning goodness with PLUMPING.RINSE. Our luxurious RINSE delivers essential nourishment to help restore thickness, and boost volume, while imparting sublime shine and silky-soft texture.",
+            "price": "250ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/plumping.rinse_.jpg"
+        },
+        {
+            "name": "Young.again.rinse",
+            "description": "Discover the fountain of youth with our YOUNG.AGAIN.RINSE that helps restore youthful lustre to dry, brittle, ageing hair. This luxurious conditioner features anti-ageing Immortelle and Baobab Oils, Orchid Extract and a nourishing Amino Acid complex that help strengthen and repair damaged hair while delivering much-needed moisture to restore smoothness and shine.",
+            "price": "250ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/YAR_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Smooth.again.rinse",
+            "description": "Smoothly does it—thanks to our smoothing conditioner that tames thick, coarse and unruly hair. The secret to SMOOTH.AGAIN.RINSE is Keratin Protein that mimics the structure of hair’s natural proteins to deliver targeted damage repair where needed most for seamlessly smooth results. Nourishing oils and butters, including Monoi Oil, help hair retain essential moisture and fight frizz, leaving it silky soft and extremely touchable.",
+            "price": "250ml $36.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/SAR_website.jpg"
+        },
+        {
+            "name": "Repair-me.wash",
+            "description": "Nourish overtaxed hair back to life, and make dry, damaged, frizzy over-processed hair a thing of the past with a little help from REPAIR-ME.WASH. Prepare to renew and restore frazzled locks with our reconstructing treatment shampoo enriched with powerful proteins and amino acids. It will help to strengthen the hair from root to tip, while gently removing impurities and soothing damage.",
+            "price": "250ml $41.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/RMW_website.jpg"
+        },
+        {
+            "name": "Hydrate-me.wash",
+            "description": "Quench dull, parched and dry hair, with a nourishing hydration pick-me-up. HYDRATE-ME.WASH is our super-smoothing, hydrating WASH that will replenish hair with much-needed moisture. Ideal for hair that’s naturally dry, or exposed to harsh, dry climates, it’s packed with antioxidant goodness to help restore a healthy glow to parched locks.",
+            "price": "250ml $35.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/HMW_website.jpg"
+        },
+        {
+            "name": "Balancing.wash",
+            "description": "Washing your hair every day is a balancing act that requires the right shampoo for the job. Our BALANCING.WASH is the yin and yang of everyday shampoos, formulated to gently, yet effectively cleanse the hair and scalp while a nourishing blend of Amino Acids and Antioxidant-rich oils restore moisture, strengthen the hair and protect against colour-fading.",
+            "price": "250ml $35.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/BW_website.jpg"
+        },
+        {
+            "name": "Maxi.wash",
+            "description": "Give hair a much-needed detox. Our detoxifying shampoo gently, yet effectively removes unwanted product and mineral build-up from the hair without stripping it of its natural oils. A soothing blend of Tea Tree, Thyme and Rosemary essential oils purify and restore balance for clean, clear and refreshed strands. It’s the ideal pre-wash or pre-colour treatment shampoo that prepares hair to receive MAXI benefits from any regimen.",
+            "price": "250ml $35.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/MW_website.jpg"
+        },
+        {
+            "name": "Scalp.spa.wash",
+            "description": "Healthy hair begins with a healthy scalp. Treat it with the upmost care as you would your skin with this purifying shampoo infused with a luxurious blend of skin-loving ingredients like Micellar Water, Celery Seed Extract and Rose Water. SCALP.SPA WASH gently cleanses, soothes and balances moisture levels to nurture your scalp back to health and create the optimal foundation for healthy hair.",
+            "price": "250ml $40.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/scalp-spa-wash-250-ml_2.jpg"
+        },
+        {
+            "name": "Plumping.wash",
+            "description": "Plump up in all the right places, and take your hair to a whole new level of volume and thickness with PLUMPING.WASH. Created to nourish every strand from root to tip, fine and ageing hair will transform into stronger, fuller-looking locks with renewed strength and vitality.",
+            "price": "250ml $41.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/PW_website-1.jpg"
+        },
+        {
+            "name": "Young.again.wash",
+            "description": "Give damaged, ageing hair a youthful pick-me-up with our restorative softening shampoo that delivers powerful rejuvenating benefits every time you wash. An Antioxidant-rich blend of Immortelle and Baobab Oils, Lotus Flower, Orchid Extract and a nourishing Amino Acid complex enhance hair strength and deliver moisture for renewed lustre, body and bounce.",
+            "price": "250ml $41.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/YAW_website.jpg"
+        },
+        {
+            "name": "Smooth.again.wash",
+            "description": "Fight frizz and tame unruly tresses with our smoothing shampoo for thick, coarse hair. This smooth operator is equipped with nourishing oils and butters, like Monoi and Murumuru, that help hair retain essential moisture for all-over softness. Even the wildest of frizz becomes smooth and refined with incredible shine.",
+            "price": "250ml $35.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/SAW_website.jpg"
+        },
+        {
+            "name": "Angel.masque",
+            "description": "Finally … an answer to all your prayers. Our ANGEL.MASQUE provides much needed salvation to fine, fragile hair that has been colour-treated or damaged. This intensive strengthening and thickening treatment contains essential Amino Acids to deeply repair and protect against damage. Bamboo Extract provides Antioxidant-rich nourishment and strength while sacred Lotus Flower Extract helps boost volume and shine. Hair is left visibly healthier, shinier and thicker. Amen to that.",
+            "price": "200ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/AM_website.jpg"
+        },
+        {
+            "name": "Hydrate-me.masque",
+            "description": "Get ready for a serious burst of intense hydration. Our moisturising and smoothing masque is the ultimate deep conditioning treatment that replenishes and repairs dry, parched hair. Bursting with essential oils and vitamins from Rose Hip, HYDRATE-ME.MASQUE delivers intense hydration and restores healthy body and shine.",
+            "price": "200ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2017/09/HMM_website.jpg"
+        },
+        {
+            "name": "Young.again.masque",
+            "description": "Breathe new life back into brittle, ageing hair with this restorative at-home masque from our REJUVENATE regimen. Anti-ageing Immortelle and Baobab Oils, Lotus Flower, Orchid Extract and a nourishing Amino Acid complex deeply condition while helping to strengthen and repair damaged hair. Say hello to body, bounce and incredible shine that makes hair look YOUNG.AGAIN.",
+            "price": "200ml $54.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KMU217_YOUNG.AGAIN_.MASQUE_200ml-04-scaled-1.jpg"
+        },
+        {
+            "name": "Young.again",
+            "description": "Turn back time on ageing hair and feel YOUNG.AGAIN. This weightless leave-in treatment oil is the ultimate daily indulgence for damaged and ageing hair, formulated with anti-ageing Immortelle to deliver deep conditioning and shine-boosting benefits while protecting the hair against environmental stressors and heat damage.",
+            "price": "100ml $46.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/YA_website.jpg"
+        },
+        {
+            "name": "Everlasting.colour rinse",
+            "description": "A colour-locking conditioner forms a protective layer to guard against colour loss and environmental stressors, while pH balancers help create shine and improve hair’s condition, softness, and hydration while reducing damage and never weighing down the hair.",
+            "price": "250ml $43.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2022/03/EVERLASTING.COLOUR-RINSE.jpg"
+        },
+        {
+            "name": "Everlasting.colour Leave-In",
+            "description": "Lightweight leave-in spray treats hair from the inside, strengthening hairs resistance for improved, more robust and healthier hair. Preserves colour vibrancy and protects hair from environmental stressors while nourishing, hydrating and repairing.",
+            "price": "Check in Salon",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2022/03/EVERLASTING.COLOUR-LEAVE-IN-scaled-1.jpg"
+        },
+        {
+            "name": "Anti.gravity.spray",
+            "description": "Get ready for liftoff with our ANTI.GRAVITY.SPRAY. This weightless, non-aerosol hairspray helps reinforce big, bouncy volume and provide lasting hold for styles that stay put and defy gravity every time. Formulated with Manuka Honey and vitamin-enriched Grapefruit Extract, ANTI.GRAVITY.SPRAY imparts a lush shine that won’t weigh the hair down, allowing big, beautiful locks to reach for the stars.",
+            "price": "150ml $34.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/AGS_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Killer.waves",
+            "description": "Embrace your hair’s natural texture with this weightless, invisible curl enhancer for fine wavy or curly hair. Designed to separate and define natural waves and curls, this Antioxidant-rich spray also helps reduce frizz while Baobab Seed Extract increases shine and elasticity for beautiful, bouncy KILLER.WAVES.",
+            "price": "Check in Salon",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KillerWaves-1-1.jpg"
+        },
+        {
+            "name": "Motion.lotion",
+            "description": "Set your waves in motion and get frizz under control with this weightless, highly-absorbent, curl enhancing lotion. MOTION.LOTION is the secret to defining loose, soft waves with flexible hold in long or fine hair. The added bonus of super-charged nourishing oils boost natural-looking shine as you twist and twirl into hair.",
+            "price": "150ml $34.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KMU026_MOTION.LOTION_150ml-04-scaled-1.jpg"
+        },
+        {
+            "name": "Easy.rider",
+            "description": "Easy does it with this defining anti-frizz crème for all hair types that treats your hair as you style. Packed with Antioxidants from Green Tea, EASY.RIDER provides the nourishment of a treatment to improve moisture and elasticity while activating curl and smoothing out frizz. Our first product ever made, EASY.RIDER is still one of our favourites for creating a truly modern look with soft, separated curls and flexible hold.",
+            "price": "100ml $34.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KMU186_EASY.RIDER_.jpg"
+        },
+        {
+            "name": "Body.builder",
+            "description": "Go ahead and work that body. BODY.BUILDER is our weightless, volumising spray mousse that creates beautiful body without any sticky crunches, just flexible fullness and hold. The more you add, the more body you build, so layer it on and create smooth, big shapes until you achieve the va va voom that meets your body goals. Antioxidant-rich Tangerine Oil and Vitamin B5 moisturise the hair and impart natural shine.",
+            "price": "100ml $21.00 , 350ml $34.00",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/BB_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Heated.defense",
+            "description": "Arm your hair with a protective shield against heat damage. HEATED.DEFENSE is a weightless, invisible, leave-in foam treatment designed to deliver a supreme line of defense against damage associated with heated and mechanical tools. Provides extreme heat protection up to 232˚C / 450˚F.",
+            "price": "150ml $29.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2022/03/HD_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Bedroom.hair",
+            "description": "The secret to tousled, sexy bedroom hair is right here in our flexible texturising hairspray. BEDROOM.HAIR gives hair flexible hold and touchable texture with just the right amount of separation and movement that allows you (or someone special) to run your fingers through it. The formula is enhanced with Ginger Root to help increase elasticity and suppleness. It’s the epitome of perfectly imperfect, sexy hair that says, ‘I woke up like this.’",
+            "price": "235ml $34.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/BH_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Night.rider",
+            "description": "Buckle up and hold onto your style with the strongest of our hardworking moulding pastes. NIGHT.RIDER delivers rough, matte texture and strong hold for short or choppy styles. Natural Beeswax moulds and sets the hair while sealing in moisture to prevent breakage. Work it quickly, as it starts setting upon contact, and get ready to take your hair on a ride that will last all night.",
+            "price": "30g $14.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KMU189_NIGHT.RIDER_.jpg"
+        },
+        {
+            "name": "Hair.resort.spray",
+            "description": "Make every hair day look like a day at the beach with HAIR.RESORT.SPRAY. Our super cool hair spray makes it easier than ever to create the iconic beach hair look that Kevin Murphy is renowned for. Refreshing bursts of Citrus Oil deliver Antioxidant goodness and shine while stimulating your senses as you rock the sexy surfer look.",
+            "price": "150ml $34.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/HRS_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Re.store",
+            "description": "Take your REPAIR regimen to the next level with RE.STORE, our repairing cleansing and conditioning treatment in-one. Thanks to the goodness of powerful superfood Green Pea proteins, Amino Acids and Papaya and Pineapple enzymes, this treatment naturally binds moisture to the hair and restores its elasticity and strength. Use it as a replacement for both REPAIR-ME.WASH and REPAIR-ME.RINSE every third wash for ultimate hair repair.",
+            "price": "200ml $37.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/re.store_-1-scaled-1.jpg"
+        },
+        {
+            "name": "Touchable",
+            "description": "Get the finish of a wax with the weightless benefits of a spray. TOUCHABLE is just that—soft and pliable and never sticky to the touch. Our spray wax finishing hairspray maintains texture and hold to reinforce the appearance of separation for that perfectly messy look. A healthy dose of Antioxidants from Hibiscus Flower Extract, Milk Thistle, Sea Lavender and Carrot Seed Oil help protect and condition the hair, giving it a beautiful satin sheen.",
+            "price": "250ml $34.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/Touchable-1-1.jpg"
+        },
+        {
+            "name": "Session.spray",
+            "description": "Whether you’re in the salon, on set, or at home, SESSION.SPRAY is your secret weapon to make your finished look last. Our strong hold finishing spray features special moulding resins that provide firm, weightless hold plus excellent humidity resistance for a style that stays put under all conditions. Better yet, it’s enriched with natural oils that smell delightful and help protect the integrity of the hair. It brushes out with ease, leaving no trace of flakiness behind.",
+            "price": "337ml $34.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/SSP_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Session.spray flex",
+            "description": "For those who crave a lighter hold with more flexibility, SESSION.SPRAY FLEX is your go-to finishing hairspray. Our lightweight, fast-drying formula features flexible moulding resins to give your style a workable, lived-in hold with the same humidity resistance and flake-free properties of our beloved SESSION.SPRAY. Our special Elasticity Blend made up of natural extracts helps give hair moisture, strength and smoothness.",
+            "price": "337ml $34.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/SSFlex_website-1-scaled-1.jpg"
+        },
+        {
+            "name": "Staying.alive",
+            "description": "So much more than a 70’s pop song, STAYING.ALIVE is our high-performance, leave-in treatment that revives dry, damaged or colour-treated hair. Enriched with silk proteins, Vitamins C and E, and naturally-derived Antioxidants, this weightless hydrating spray seals the cuticle with essential nourishment and strength to help repair and protect against damage. Hair is alive and thriving with silky smoothness.",
+            "price": "150ml $29.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/staying.alive_-1-scaled-1.jpg"
+        },
+        {
+            "name": "Powder.puff",
+            "description": "Just a few sprinkles of our magic POWDER.PUFF and POOF … instant volume! Our amazing weightless, volumising powder builds body with ease to create the coveted messy, casual volume that everyone desires. The magic is all in the technology—a hardworking volumising lotion locked inside a powder sphere that morphs into a setting product upon contact. The lotion provides instant volume and lift while the powder simultaneously dries it down and creates lasting hold, giving flat or fine hair some serious extra oomph.",
+            "price": "14g $32.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/powder.puff_-scaled-1.jpg"
+        },
+        {
+            "name": "Young.again dry conditioner",
+            "description": "Revive dull hair with moisture between washes. This rejuvenating and conditioning dry powder spray adds weightless moisture and increases manageability, making it perfect for all hair types—especially dry, damaged hair. Our signature Immortelle Oil moisturises and softens hair while providing powerful Antioxidant and anti-ageing benefits. This nutrient-rich spray goes on easy and dries quickly for a soft, velvety finish.",
+            "price": "250ml $34.00, 100ml $21.00 ",
+            "image": "https://kevinmurphy.com.au/wp-content/uploads/2021/01/KMU_YOUNG.AGAIN-DRY-CONDITIONER_250ML_3794-copy-2-1-scaled-1.jpg"
+        }
+    ]
+}

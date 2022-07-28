@@ -44,59 +44,63 @@ export default function Contact() {
                 <title>The Sandy Mane: a new high-end salon in Palm Desert California - contact form </title>
             </Helmet>
             <NavBar />
+            <div className='container'>
 
-            <form
-                name="newClient"
-                method="post"
-                action="/thanks/"
-                data-netlify="true"
-                data-netlify-honeypot="bot-field"
-                onSubmit={handleSubmit}
-                className="pt-5 form-class"
-            >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="newClient" />
-                <p hidden>
-                    <label>
-                        Don’t fill this out: <input name="bot-field" onChange={handleChange} />
-                    </label>
-                </p>
-                <div class="form-group col-md">
-                    <label for="firstName" className="float-left">First name:</label>
-                    <input class="form-control form-control-sm" type="text" id="firstName" name="firstName" placeholder="first name" onChange={handleChange} />
-                    <label for="lastName" className="float-left">Last Name:</label>
+                <form
+                    name="newClient"
+                    method="post"
+                    action="/thanks/"
+                    data-netlify="true"
+                    data-netlify-honeypot="bot-field"
+                    onSubmit={handleSubmit}
+                    className="pt-5 form-class"
+                >
+                    {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+                    <input type="hidden" name="form-name" value="newClient" />
+                    <p hidden>
+                        <label>
+                            Don’t fill this out: <input name="bot-field" onChange={handleChange} />
+                        </label>
+                    </p>
+                    <div class="form-group ">
+                        <div className='row'>
+                            <label for="firstName" className="float-left">First name:</label>
+                            <input className="form-control form-control-sm  " type="text" id="firstName" name="firstName" placeholder="first name" onChange={handleChange} />
+                            <label for="lastName" className="float-left">Last Name:</label>
 
-                    <input type="text" id="lastName" class="form-control form-control-sm" name="lastName" placeholder="last name" onChange={handleChange} />
-                </div>
-                <div class="form-group col-md">
-                    <label for="email" className="float-left">Email Address:</label>
-                    <input for="email" id="email" placeholder="Email Address" name="email" class="form-control form-control-sm"
-                        required onChange={handleChange} />
-                    <label for="phoneNumber" className="float-left">Phone Number:</label>
+                            <input type="text" id="lastName" className="form-control form-control-sm " name="lastName" placeholder="last name" onChange={handleChange} />
+                        </div>
+                    </div>
+                    <div class="form-group col-md">
+                        <label for="email" className="float-left">Email Address:</label>
+                        <input for="email" id="email" placeholder="Email Address" name="email" class="form-control form-control-sm"
+                            required onChange={handleChange} />
+                        <label for="phoneNumber" className="float-left">Phone Number:</label>
 
-                    <input type="tel" id="phoneNumber" name="phoneNumber" class="form-control form-control-sm" placeholder="xxxxxxxxxx" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required onChange={handleChange} />
-                </div>
-                <div class="form-group col-md">
-                    <label for="hairColor" className="float-left">Hair Color:</label>
-                    <input type="text" id="hairColor" name="hairColor" class="form-control form-control-sm" placeholder="sandy" onChange={handleChange} />
-                    <label for="hairCondition" className="float-left">Hair Condition:</label>
-                    <input type="text" className="form-control form-control-sm" name="hairCondition" id="hairCondition" placeholder="Healthy" onChange={handleChange} />
-                </div>
-                <div class="form-group col-md">
-                    <label for="Service " className="float-left">Service Interested In:</label>
-                    <input type="text" name="requestedService" id="Service" class="form-control form-control-sm" placeholder="Highlights" onChange={handleChange} />
-                    <label for="currentHair" className="pt-2 mt-3 mb-3 mr-2 btn btn-outline-secondary">Click here to upload a picture of your hair in it's current state
-                    </label>
-                    <span id="file-name">{state.currentHair}</span>
-                    <input type="file" id="currentHair" className=" ml-2 form-control-file " name="currentHair" onChange={handleChange} />
-                    <fieldset class="fieldset">
-                        <legend>If you have a stylist you would like to work with choose them from the list below</legend>
-                        <StylistsCheckBox handleChange={handleChange} />
-                    </fieldset>
-                    <br />
-                    <button type="submit" class="btn btn-outline-secondary"> Submit</button>
-                </div>
-            </form>
+                        <input type="tel" id="phoneNumber" name="phoneNumber" class="form-control form-control-sm" placeholder="xxxxxxxxxx" pattern="[0-9]{3}[0-9]{3}[0-9]{4}" required onChange={handleChange} />
+                    </div>
+                    <div class="form-group col-md">
+                        <label for="hairColor" className="float-left">Hair Color:</label>
+                        <input type="text" id="hairColor" name="hairColor" class="form-control form-control-sm" placeholder="sandy" onChange={handleChange} />
+                        <label for="hairCondition" className="float-left">Hair Condition:</label>
+                        <input type="text" className="form-control form-control-sm" name="hairCondition" id="hairCondition" placeholder="Healthy" onChange={handleChange} />
+                    </div>
+                    <div class="form-group col-md">
+                        <label for="Service " className="float-left">Service Interested In:</label>
+                        <input type="text" name="requestedService" id="Service" class="form-control form-control-sm" placeholder="Highlights" onChange={handleChange} />
+                        <label for="currentHair" className="pt-2 mt-3 mb-3 mr-2 btn btn-outline-secondary">Click here to upload a picture of your hair in it's current state
+                        </label>
+                        <span id="file-name">{state.currentHair}</span>
+                        <input type="file" id="currentHair" className=" ml-2 form-control-file " name="currentHair" onChange={handleChange} />
+                        <fieldset class="fieldset">
+                            <legend>If you have a stylist you would like to work with choose them from the list below</legend>
+                            <StylistsCheckBox handleChange={handleChange} />
+                        </fieldset>
+                        <br />
+                        <button type="submit" class="btn btn-outline-secondary"> Submit</button>
+                    </div>
+                </form>
+            </div>
         </div>
     )
 }

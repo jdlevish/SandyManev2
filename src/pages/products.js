@@ -4,13 +4,25 @@ import '../App.css';
 
 
 
+import { Component } from "react"
+import { Container } from 'react-bootstrap';
 
-export default function Products() {
-    return (
-        <div className="App">
-            <NavBar />
-            <h1>Coming Soon</h1>
+// import logo from './logo.svg';
+import '../App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-        </div>
-    )
+import Products from '../components/products.js'
+import "bootstrap/dist/css/bootstrap.min.css";
+
+export default function Home() {
+    return <div className="App">
+        <NavBar />
+        <Container>
+            <div className="row justify-content-around">
+                <Products />
+            </div>
+        </Container>
+
+
+    </div>
 }
