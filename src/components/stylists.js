@@ -29,7 +29,7 @@ export default function Stylists() {
 
                 </Card.Body>
                 <Card.Footer className="cardOver">
-                    <img src={glyph} className="instaLogo p-2"></img><a className=" cardOver" href={person.instagramLink}> {person.instagram}</a>
+                    <img src={glyph} className="instaLogo p-2"></img><a className="instagramLink cardOver" href={person.instagramLink}> {person.instagram}</a>
                 </Card.Footer>
             </Card >
 

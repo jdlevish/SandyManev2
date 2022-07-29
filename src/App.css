@@ -146,13 +146,17 @@ html {
 a,
 a:link,
 a:visited,
-a:active,
-a:hover {
+a:active {
   text-decoration: none;
-  color: #C68D7A;
+  color: #C68D7A !important;
 }
 
 a:hover {
+  text-decoration: none;
+  color: #fff !important;
+}
+
+.instagramLink:hover {
   font-size: 1.9rem;
   text-decoration: none;
   color: #C68D7A !important;
@@ -223,4 +227,30 @@ input[type="file"] {
 .ProductsTitle {
   color: #975b47;
   font-size: 2rem;
+}
+
+.productBrandImage {
+
+
+  width: 32rem;
+  height: 22rem;
+}
+
+.productBrandHeader {
+  color: #B56C54;
+
+}
+
+.productBrandDescription {
+  color: #B56C54;
+  background-color: white;
+  padding-left: 2rem;
+  text-align: left;
+  margin-right: 0;
+}
+
+.productBackground {
+  background-color: white;
+
+  box-shadow: #f1e7e3 -.2rem .2rem;
 }
